@@ -51,7 +51,8 @@ Enter the filename for the metadata JSON file (Only name): metadata
 
 The script will then convert your SVG files to PNGs, optimize them (optional resize), create the sprite sheet, and generate the corresponding metadata file.
 
-4. **Output:**
+**Output:**
+
 The script will create a new directory within the `generated` folder with the specified name. This directory will contain:
 
 - A subfolder named `pngs` holding all the optimized PNG files converted from the SVGs.
