@@ -17,7 +17,7 @@ This project requires Python 3 and the following libraries:
 You can install them using `pip`:
 
 ```bash
-pip install cairosvg Pillow tqdm
+pip install -r requirements.txt
 ```
 
 
